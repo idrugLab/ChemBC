@@ -43,7 +43,7 @@ Usage of ChemBC
 ​			 2. Select all cell lines:
 
 ```
-	python ChemBC.py --files MCF-7.csv  --all True
+	python ChemBC.py --files MCF-7.csv  --all_system True
 ```
 
 
