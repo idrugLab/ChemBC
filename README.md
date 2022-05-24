@@ -2,7 +2,7 @@ Usage of ChemBC
 
 
 
-##A. Configuration preparation:
+## A. Configuration preparation:
 
 ​			1. rdkit
 
@@ -28,6 +28,7 @@ Usage of ChemBC
 --all_system True
 ```
 ​			4. When using chembc.py, you need to decompress models.zip
+
 ​			5. After the application is started, the corresponding scoring file will be automatically generated under the current path, in the format of csv.
 
 
